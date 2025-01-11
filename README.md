@@ -5,3 +5,4 @@ El corpus consta de 4 columnas:
 * Texto latino
 * Texto alto alemán antiguo
 * Referencia bíblica
+Se ha incluido la aplicación app_tatian-corpus.R que permite realizar búsquedas en el corpus latino y en el alto alemán antiguo.
