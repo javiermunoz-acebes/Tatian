@@ -1,0 +1,317 @@
+pdf_p,codice_p,lage,cabecera_schreiber,sievers,entradas,korrektor,rasur,ther_de_thie,d_de_th,d_de_th_korrektor,th_de_d
+64,25,"Lage HI, Bl. 1°",Schreiber a,"Prologus 1-4; 1,1 - 1,4",9,1,7,0,0,0,0
+66,26,"Lage II, BI. 1V",Schreiber a,"2,1-6",8,2,8,0,0,0,0
+68,27,"Lage III, BI. 27",Schreiber @,"2,6 - 2,11",14,3,7,0,0,0,0
+70,28,"Lage III, Bl. 2”",Schreiber a,"2,11 - 3,8",11,2,8,0,0,0,0
+72,29,"Lage II, Bl. 3°",Schreiber a,"3,8 - 4,6",9,1,5,0,0,0,0
+74,30,"Lage II, BI. 3%",Schreiber @,"4,6 - 4,12",5,0,2,0,0,0,0
+76,31,"Lage II, BI. 4°",Schreiber a,,6,0,3,0,0,0,0
+78,32,"Lage II, BI. 4v",Schreiber a,"4,18 - 5,2",2,0,2,0,0,0,0
+80,33,"Lage II, BI. 5°",Schreiber a,,1,1,1,0,0,0,0
+82,34,"Lage III, BI. 5¥",Schreiber a,"5,6 - 5,9",2,0,1,0,0,0,0
+84,35,"Lage Il, BI. 6°",Schreiber @,"5,10 - 6,1",6,0,2,0,0,0,0
+86,36,"Lage II, BL. 6”",Schreiber a,"6,1 - 6,6",12,0,7,0,0,0,0
+88,37,"Lage II, BI. 7°",Schreiber @,"6,6 - 7,5",7,0,6,0,0,0,0
+90,38,"Lage II, BI. 7",Schreiber a,"7,5 - 7,10",4,0,1,0,0,0,0
+92,39,"Lage IV, BI. 1°",Schreiber a,"7,10 - 8,4",9,1,7,0,0,0,0
+94,40,"Lage IV, BI. 1v",Schreiber a,"8,4 - 9,3",12,1,7,0,0,0,0
+96,41,"Lage IV, BI. 2°",Schreiber a,,6,0,2,0,0,0,0
+98,42,"Lage IV, BI, 24",Schreiber a,"11,4 - 12,6",10,2,4,0,0,0,0
+100,43,"Lage IV, BI. 3°",Schreiber a,"12,6 - 13,2",8,0,7,0,0,0,0
+102,44,"Lage IV, BI. 3¥",Schreiber a,"13,2-6",10,1,5,1,0,0,0
+104,45,"Lage IV, BI. 4°",Schreiber &,"13,6-12",6,0,5,0,0,0,0
+106,46,"Lage IV, Bi. 4¥",Schreiber &,"13,12-18",8,1,5,1,0,0,0
+108,47,"Lage IV, BI. St",Schreiber a,,8,1,5,1,0,0,0
+110,48,"Lage IV, BI. 5¥",Schreiber a,"13,23-25; 14,1-3",6,1,5,1,0,0,0
+112,49,"Lage IV, BL. 6°",Schreiber a,"14,3-7; 15,1-3",7,3,5,1,0,0,0
+114,50,"Lage IV, BI. 6",Schreiber a,"15,3 - 16,1",7,3,4,1,0,0,0
+116,51,"Lage IV, BI. 7°",Schreiber a; Ende von Schreiber a mit Seitenende,"16,1 - 16,4; 17,1",3,2,3,0,0,0,0
+118,52,"Lage IV, Bl. 7",Schreiber §; Beginn von Schreiber B mit Z. 1 der Seite,"17,1 - 17,6",3,1,2,1,0,0,0
+120,53,"Lage IV, BI. 8°",Schreiber PB,"17,6-8; 18,1-3",6,1,2,0,0,0,0
+122,54,"Lage IV, BI. 8¥",Schreiber B,,3,0,2,1,0,0,0
+124,55,"Lage V, BI. 1°",Schreiber B,"19,4-8",8,0,4,0,0,0,0
+126,56,"Lage V, BI. 1¥",Schreiber B,"19,8 - 20,4",4,0,4,1,0,0,0
+128,57,"Lage V, Bl. 2f",Schreiber B,"21,4-8",10,0,6,1,0,0,0
+130,58,"Lage V, Bl. 2¥",Schreiber B,"21,9 22,2",2,0,1,0,0,0,0
+132,59,"Lage V, Bl. 3°",Schreiber 6,"22,2-7",12,4,8,1,0,0,0
+134,60,"Lage V, BI. 3%",Schreiber [,"22,7-18",5,1,3,0,0,0,0
+136,61,"Lage V, BL. 4°",Schreiber B,"22,18 - 25,4",12,5,7,1,0,0,0
+138,62,"Lage V, BI. 4V",Schreiber B,"25,4 - 27,1",8,2,4,1,0,0,0
+140,63,"Lage V, BI. 5¢",Schreiber B,,6,2,2,0,0,0,0
+142,64,"Lage V, BI. 5",Schreiber B,"28,3 - 31,2",7,1,4,0,0,0,0
+144,65,"Lage V, BI. 6°",Schreiber B,"31,2 - 32,4",12,3,7,3,0,0,0
+146,66,"Lage V, Bl. 6¥",Schreiber B,"32,4 - 33,2",8,3,3,2,0,0,0
+148,67,"Lage V, BI. 7*",Schreiber B,"33,2 - 34,5",3,0,2,2,0,0,0
+150,68,"Lage V, BL. 7",Schreiber 8,"34,5 - 35,2",7,0,2,1,0,0,0
+152,69,"Lage V, Bl. 8",Schreiber B,"35,2 - 37,1",6,1,2,0,0,0,0
+154,70,"Lage V, BI. 8Y",Schreiber B,,3,0,2,1,0,0,0
+156,71,"Lage VI, Bl. 1°",Schreiber B,,11,2,4,0,0,0,0
+158,72,"Lage VI, BI. 1¥",Schreiber B,"39,5 - 40,4",3,1,1,0,0,0,0
+160,73,"Lage VI, Bi. 2°",Schreiber f3,"40,4 - 41,3",10,4,7,4,0,0,0
+162,74,"Lage VI, Bl. 2¥",Schreiber B,"41,3 - 42,3",8,1,5,2,0,0,0
+164,75,"Lage VI, BI. 3°",Schreiber f,"42,3 - 44,2",14,6,11,0,0,0,0
+166,76,"Lage VI, BI. 3¥",Schreiber B,"44,2-7",3,0,1,1,0,0,0
+168,77,"Lage VI, BI. 4°",Schreiber 3,"44,8-13",8,0,2,0,0,0,0
+170,78,"Lage VI, BI. 4V",Schreiber B,"44,13-18",5,1,4,4,0,0,0
+172,79,"Lage VI, BL. 5S‘",Schreiber B,"44,18-22",15,3,7,4,0,0,0
+174,80,"Lage VI, Bl. SV",Schreiber B,"44,22-27",5,0,2,0,0,0,0
+176,81,"Lage VI, BI. 6°",Schreiber B,"44,27 - 45,5",2,0,0,0,0,0,0
+178,82,"Lage VI, BI. 6",Schreiber p,"45,6 - 46,4",3,0,3,3,0,0,0
+180,83,"Lage VI, BI. 7°",Schreiber 8,"46,4 - 47,7",5,1,2,0,0,0,0
+182,84,"Lage VI, BI. 7",Schreiber B,"47,7 - 49,4",8,0,5,3,0,0,0
+184,85,"Lage VI, BI. 8°",Schreiber B,"49,4 - 51,3",5,5,4,0,0,0,0
+186,86,"Lage VI, BI. 8",Schreiber B,"51,3 - 53,1",5,2,3,1,0,0,0
+188,87,"Lage VU, BI. 1°",Schreiber B,,9,1,3,0,0,0,0
+190,88,"Lage VII, Bl. 1%",Schreiber B,"53,8-14",4,1,0,0,0,0,0
+192,89,"Lage VII, Bl. 2°",Schreiber B,"54,1-8",4,1,4,0,0,0,0
+194,90,"Lage VII, Bl. 2¥",Schreiber B,"54,8 - 55,7",3,1,1,0,0,0,0
+196,91,"Lage VII, Bl. 3°",Schreiber f,"55,7 - 56,6",6,3,3,1,0,0,0
+198,92,"Lage VII, Bl. 3¥",Schreiber B,"56,6 - 57,3",4,2,3,1,0,0,0
+200,93,"Lage VII, Bl. 4°",Schreiber B,"57,3-8",7,3,4,1,0,0,0
+202,94,"Lage VU, BI. 4¥",Schreiber B,"58,1 - 60,2",8,6,3,0,0,0,0
+204,95,"Lage VII, Bl. 5*",Schreiber B,"60,3-9",10,7,4,1,0,0,0
+206,96,"Lage VII, Bl. 5V",Schreiber B,,9,6,3,0,0,0,0
+208,97,"Lage VII, BI. 6°",Schreiber B,,11,8,3,2,0,0,0
+210,98,"Lage VII, Bl. 6%",Schreiber B,"62,2-8",11,5,2,2,0,0,0
+212,99,"Lage VI, Bl. 7°",Schreiber B,"62,9 - 63,4",5,5,3,2,0,0,0
+214,100,"Lage VII, Bl. 7",Schreiber B,"63,4 - 64,6",8,5,1,1,0,0,0
+216,101,"Lage VU, BI. 8°",Schreiber B,,8,3,2,1,0,0,0
+218,102,"Lage VII, BI. 8¥",Schreiber B,"64,13 - 66,2",8,2,2,0,0,0,0
+220,103,"Lage VIII, Bl. 1°",Schreiber p,,8,1,5,3,0,0,0
+222,104,"Lage VIII, Bl. 1”",Schreiber B,,10,2,2,0,0,0,0
+224,105,"Lage VIII, BI. 2°",Schreiber B,"67,13 - 68,4",12,8,4,0,0,0,0
+226,106,"Lage VIII, Bl. 2¥",Schreiber B,"68,4-69,7",10,7,2,0,0,0,0
+228,107,"Lage VIII, BI. 3°",Schreiber B,"69,7 - 71,2",11,3,4,0,0,0,0
+230,108,"Lage VIII, Bl. 3¥",Schreiber B,"71,2 - 72,4",6,2,1,0,0,0,0
+232,109,"Lage VIII, Bl. 4°",Schreiber fi,"72,4-74,2",9,8,0,0,0,0,0
+234,110,"Lage VIH, Bl. 4v",Schreiber B,,3,3,0,0,0,0,0
+236,111,"Lage VIII, BI. 5*",Schreiber B,"75,1 - 76,2",4,0,4,3,0,0,0
+238,112,Lage VII BL. SV,Schreiber B,"76,2-5",9,9,7,6,0,0,0
+240,113,"Lage VII, Bl. 6°",Schreiber B,,5,1,1,0,0,0,0
+242,114,"Lage VIII, BI. 6%",Schreiber B,,9,7,1,0,0,0,0
+244,115,"Lage VII, Bl. 7¢",Schreiber B,"78,7-79,3",9,5,5,0,0,0,0
+246,116,"Lage VIII, BL. 7%",Schreiber B,,9,2,4,0,0,0,0
+248,117,"Lage VIII, Bl. 8°",Schreiber,,14,3,6,0,0,0,0
+250,118,"Lage VIII, Bl. 8¥",Schreiber B,"80,3-7",9,4,2,0,0,0,0
+252,119,"Lage IX, Bl. 1°",Schreiber B,"80,7 - 81,3",11,7,7,0,0,0,0
+254,120,"Lage IX, Bl. 1",Schreiber B,,4,3,0,0,0,0,0
+256,121,"Lage IX, BI. 2°",Schreiber B,,8,5,2,1,0,0,0
+258,122,"Lage IX, BI. 2",Schreiber fi,"82,5-7",13,2,8,2,0,0,0
+260,123,"Lage IX, BI. 3°",Schreiber B,"82,8-11",11,6,4,1,0,0,0
+262,124,"Lage IX, BI. 3¥",Schreiberwechsel! Schreiber B bis einschlieBlich Zeile 6; hiemach Schreiber y,"82,11-114",13,8,8,0,4,4,0
+264,125,"Lage EX, Bl. 4°",Schreiber y,"82,114-12",20,8,11,0,1,0,0
+266,126,"Lage IX, BI. 4¥",Schreiber y,"83,1 - 84,2",26,17,14,0,0,0,0
+268,127,"Lage IX, Bl. 5°",Schreiber y,"84,2-5",18,10,11,0,0,0,0
+270,128,"Lage IX, Bl. 5¥",Schreiber y,"84,5-9",21,11,8,0,0,0,0
+272,129,"Lage IX, BI. 6°",Schreiber y,"84,9 - 85,4",19,5,7,0,1,0,0
+274,130,"Lage IX, Bl. 6¥",Schreiber y,"86,1 - 87,2",31,14,14,0,0,0,0
+276,131,"Lage IX, Bl. 7°",Schreiber y,"87,2-5",26,19,18,0,0,0,0
+278,132,"Lage IX, Bl. 7”",Schreiber y,"87,5-7",19,10,8,0,1,0,0
+280,133,"Lage IX, BI. 8°",Schreiber y,"87,7-8",24,11,13,0,0,0,0
+282,134,"Lage IX, BI. 8¥",Schreiber y,"87,8 - 88,1",19,5,7,0,0,0,0
+284,135,"Lage X, Bl. 1°",Schreiber y,"88,1-4",23,9,14,0,0,0,0
+286,136,"Lage X, BL. 1",Schreiber y,"88,4-7",12,7,9,0,0,0,0
+288,137,"Lage X, Bl.2°",Schreiber y,,13,7,7,0,0,0,0
+290,138,"Lage X, BI. 2",Schreiber y,888-12,17,5,8,0,0,0,0
+292,139,"Lage X, Bl. 3°",Schreiber y,"88,12-13",13,1,7,0,0,0,0
+294,140,"Lage X, BI. 3",Schreiber y,"88,13 - 89,2",19,6,8,0,0,0,0
+296,141,"Lage X, Bl. 4°",Schreiber y,"89,2-5",15,5,13,0,0,0,0
+298,142,"Lage X, Bl. 4V",Schreiber y,,11,0,5,0,0,0,0
+300,143,"Lage X, BI. 5¢",Schreiber y,"90,2-4",13,4,6,0,0,0,0
+302,144,"Lage X, BI. 5V",Schreiber y,"90,4-6",26,2,7,0,0,0,0
+304,145,"Lage X, BI. 6°",Schreiber y,"90,6 - 91,3",22,5,9,0,0,0,0
+306,146,"Lage X, Bl. 6%",Schreiber y,"91,3-5",23,6,10,0,0,0,0
+308,147,"Lage X, Bl. 7°",Schreiber y,"91,5 - 92,2",22,6,11,0,0,0,0
+310,148,"Lage X, Bl. 7%; Ende von Lage X",Schreiber y,"92,2-5",14,1,6,0,0,0,0
+312,149,"Lage XI, Bl. if",Schreiber y,"92,5-8",8,2,5,0,0,0,0
+314,150,"Lage XI, Bl. 1v",Schreiber y .,"92,8 - 94,1",11,1,4,0,0,0,0
+316,151,"Lage XI, Bl. 2°",Schreiber y,"94,1 - 95,1",18,5,9,0,0,0,0
+318,152,"Lage XI, Bl. 2”",Schreiber y,"95,1-5",24,3,6,0,0,0,0
+320,153,"Lage XI, Bl. 3°",Schreiber y,"96,1-4",15,3,5,0,0,0,0
+322,154,"Lage XI, Bl. 3%",Schreiber y,,15,5,11,0,0,0,0
+324,155,"Lage XI, BI. 4°",Schreiber y,"97,2-4",19,4,12,0,0,0,0
+326,156,"Lage XI, BI. 4¥",Schreiber y,"97,4-7",18,5,13,0,0,0,0
+328,157,"Lage XI, BI. 5°",Schreiber y,"97,7 - 98,3",25,11,17,0,0,0,0
+330,158,"Lage XI, BI. 5¥",Schreiber y,"98,3 - 99,2",19,4,8,0,0,0,0
+332,159,"Lage XI, BL. 6°",Schreiber y,"99,2-5",26,8,15,0,0,0,0
+334,160,"Lage XI, BI. 6",Schreiber y,"99,5 - 100,4",12,7,9,0,0,0,0
+336,161,"Lage XI, Bl. 7*",Schreiber y,"100,4 - 101,1",19,11,13,0,0,0,0
+338,162,"Lage XI, BI. 7",Schreiber y,"101,1 - 102,1",21,10,18,0,0,0,0
+340,163,"Lage XI, Bl. 8F",Schreiber y,"102,1 - 103,1",19,11,16,0,0,0,0
+342,164,"Lage XI, Bl. 8v-",Schreiber y. Ende von Schreiber y mit Seitenende,"103,1-5",17,9,11,0,0,0,0
+344,165,"Lage XI, Bl. 1°",Schreiber §. Beginn von Schreiber § mit Zeile 1,"103,5 - 104,2",3,0,2,0,0,0,0
+346,166,"Lage XU, BI. 14",Schreiber &,"104,2 - 104,4",12,2,10,0,0,0,0
+348,167,"Lage XI, BI. 2°",Schreiber 6,"104,4-6",14,5,12,0,0,0,0
+350,168,"Lage XII, BI. 2¥",Schreiber &,"104,6-8",1,0,0,0,0,0,0
+352,169,"Lage XII, Bl. 3°",Schreiber &,"104,8 - 105,2",3,2,3,0,0,0,0
+354,170,"Lage XI, BI. 3%",Schreiber &,"105,2 - 106,1",0,0,0,0,0,0,0
+356,171,"Lage XII, BI. 4°",Schreiber &,,3,1,3,0,0,0,0
+358,172,"Lage XII, Bl. 4¥",Schreiber &,"106,4-6",2,0,0,0,0,0,0
+360,173,"Lage XII, BI. 5f",Schreiber &,"106, 6 - 107,1",4,0,1,0,0,0,0
+362,174,"Lage XII, BI. 5V",Schreiber &,"107,1-3",2,0,1,0,0,0,0
+364,175,"Lage XJ], BI. 6°",Schreiber &,"107,3 - 108,2",5,1,2,0,0,0,0
+366,176,"Lage XII, BI. 6¥",Schreiber &,,2,1,2,0,0,0,0
+368,177,"Lage XII, BI. 7°",Schreiber &,"108,5 - 109,1",8,4,3,0,0,0,0
+370,178,"Lage XII, BI. 7%",Schreiber &,"109,1-2",8,5,5,0,0,0,0
+372,179,"Lage XII, BI. 8°",Schreiber &,,7,2,2,0,0,0,0
+374,180,"Lage XT, BI. 8",Schreiber 6,"110,1-3",5,1,1,0,0,0,0
+376,181,"Lage XIII, Bl. 1°",Schreiber &,"110,4 - 111,2",3,2,2,0,0,0,0
+378,182,"Lage XIII, BI. 1v",Schreiber &,"111,2 - 112,2",4,2,2,0,0,0,0
+380,183,"Lage XIII, BI. 2°",Schreiber &,"112,2-3",9,2,4,0,0,0,1
+382,185,"Lage XIU, BL. 2. Die Paginierung springt von 183 auf 185.",Schreiber &,"112,3 - 113,1",3,0,0,0,0,0,0
+384,186,"Lage XIII, Bl. 3°",Schreiber &,"113,1 - 114,1",1,0,1,0,0,0,0
+386,187,"Lage XIII, Bl. 3",Schreiber &,,6,1,3,0,0,0,0
+388,188,"Lage XIII, BI. 4""",Schreiber &,"115,1 - 116,1",4,0,0,0,0,0,0
+390,189,"Lage XIII, Bl. 4¥",Schreiber &,"116,1-3",6,1,3,0,0,0,0
+392,190,"Lage XIII, BI. St",Schreiber &,"116,3-4",1,0,0,0,0,0,0
+394,191,"Lage XIII, Bl. 5¥",Schreiber &,"116,4-6",3,1,3,0,0,0,0
+396,192,"Lage XIII, BI. 6°",Schreiber &,"116,6 - 117,3",6,3,3,0,0,0,0
+398,193,"Lage XIII, Bl. 6",Schreiber 8,"117,3-5",4,1,3,0,0,0,0
+400,194,"Lage XIII, BI. 7°",Schreiber &,"117,5 - 118,2",4,0,2,0,0,0,0
+402,195,"Lage XIII, B1.7¥",Schreiber &. Ende dieses Schreibers mit dem Ende der Seite.,"118,2-4",0,0,0,0,0,0,0
+404,196,"Lage XIV, Bl. 1°",Schreiber a’; Wiederbeginn dieses Schreibers ab Zeile 1 der Seite,"119,1-4",8,3,5,2,0,0,0
+406,197,"Lage XIV, BI. 1¥",Schreiber a’,"119,5-10",6,0,4,0,0,0,0
+408,198,"Lage XIV, BI. 2°",Schreiber a’,,4,3,3,3,0,0,0
+410,199,"Lage XIV, BI. 24",Schreiber a”,"120,4 - 121,1",8,1,5,1,0,0,0
+412,200,"Lage XIV, Bl. 3°",Schreiber a’,"121,1 - 122,1",9,2,3,2,0,0,0
+414,201,"Lage XIV, Bl. 3¥",Schreiber a’,"122,1 - 123,2",11,3,7,2,0,0,0
+416,202,"Lage XIV, BL 4°",Schreiber a’,"123,2-7",8,0,2,0,0,0,0
+418,203,"Lage XIV, BI. 4v",Schreiber a’,,9,3,5,2,0,0,0
+420,204,"Lage XIV, Bl. 5°",Schreiber a’,"124,4 - 125,2",10,3,7,2,0,0,0
+422,205,"Lage XIV, BI. SV","Schreiber a,’","125,2-9",8,3,5,2,0,0,0
+424,206,"Lage XIV, BI. 6°",Schreiber a’,"125,9-11",4,1,2,0,0,0,0
+426,207,"Lage XIV, BI. 6%",Schreiber a”,,6,0,3,0,0,0,0
+428,208,"Lage XIV, Bl. 7°",Schreiber a’,"127,1-4",3,0,0,0,0,0,0
+430,209,"Lage XIV, BI. 7",Schreiber &’,"127,4 - 1284",4,1,3,0,0,0,0
+432,210,"Lage XIV, BI. 8°",Schreiber a’,"128,4-9",7,2,4,1,0,0,0
+434,211,"Lage XIV, BI. 8¥",Schreiber a’,"128,9 - 129,4",6,1,5,1,0,0,0
+436,212,"Lage XV, BI. 1°",Schreiber a’,"129,4-8",7,1,5,1,0,0,0
+438,213,"Lage XV, BI. 1¥",Schreiber a’,,3,1,2,1,0,0,0
+440,214,"Lage XV, BI. 2°",Schreiber a’,"130,2 - 131,6",7,0,3,0,0,0,0
+442,216,"Lage XV, BI. 2’. Die Paginierung springt von 214 auf 216!",Schreiber @’ bis Z. 15; ab Z. 16 Schreiber ¢,"131,6-11",10,1,5,1,0,0,0
+444,217,"Lage XV, Bl. 3°",Schreiber ¢,"131,11-16",13,2,8,0,0,0,0
+446,218,"Lage XV, BI. 3V",Schreiber ¢,"131,16-20",6,0,3,0,0,0,0
+448,219,"Lage XV, BI. 4°",Schreiber ¢,"131,20-24",12,5,7,0,0,0,0
+450,220,"Lage XV, BI. 4V",Schreiber ¢. Ende dieses Schreiber mit dem Seitenende.,"131, 24 - 132,4",16,7,5,0,0,0,0
+452,221,"Lage XV, BI. 5t","Schreiber B’ von Z. 1-22, lateinische Spalte; ab Z. 22, althochdeutsche Spalte,","132,5-10",9,5,4,0,0,0,0
+454,222,"Lage XV, BI. 5V",Schreiber ¢,"132,10-15",6,0,4,0,0,0,0
+456,223,"Lage XV, BI. 6°",Schreiber,,4,0,2,0,0,0,0
+458,224,"Lage XV, BI. 6%",Schreiber ¢,"133,2-8",3,0,1,0,0,0,0
+460,225,"Lage XV, BI. 7°",Schreiber,"133,8-12",8,0,6,0,0,0,0
+462,226,"Lage XV, BI. 7",Schreiber,"133,13 - 134,3",4,0,2,0,0,0,0
+464,227,"Lage XV, BI. 8°",Schreiber,"134,3-8",2,0,1,0,0,0,0
+466,228,"Lage XV, BI. 8",Schreiber §,"134,8 - 135,1",3,0,1,0,0,0,0
+468,229,"Lage XVI, BI. 1¢",Schreiber ¢,"135,1-5",6,0,1,0,0,0,0
+470,230,"Lage XVI, BI. 1¥",Schreiber §,"135,5-12",3,0,1,0,0,0,0
+472,231,"Lage XVI, Bi. 2°",Schreiber,,3,0,2,0,0,0,0
+474,232,"Lage XVI, Bl. 2¥",Schreiber,,4,0,2,1,0,0,0
+476,233,"Lage XVI, BI. 3°",Schreiber,"135,24-28",0,0,0,0,0,0,0
+478,234,"Lage XVI, Bl. 3¥",Schreiber §,"135,28-33",7,0,3,0,0,0,0
+480,235,"Lage XVI, BI. 4°",Schreiber §,"135,33 - 136,3",2,0,0,0,0,0,0
+482,236,"Lage XVI, BL. 4¥",Schreiber ¢,"137,1 - 138,1",1,0,0,0,0,0,0
+484,237,"Lage XVI, BI. S'",Schreiber ¢,"138,1-6",7,0,4,0,0,0,0
+486,238,"Lage XVI, Bl. 5¥",Schreiber §,"138,6-11",5,0,3,1,0,0,0
+488,239,"Lage XVI, BL. 6°",Schreiber §,"138,11 - 139,1",8,0,7,0,0,0,0
+490,240,"Lage XVI, BI. 6%",Schreiber §,"139,1-7",4,0,2,0,0,0,0
+492,241,"Lage XVI, BI. 7°",Schreiber §,"139,7 - 140,1",11,0,7,0,0,0,0
+494,242,"Lage XVI, BL. 7¥",Schreiber §,"140,1 - 141,3",7,0,0,0,0,0,0
+496,243,"Lage XVI, Bl. 8°",Schreiber,"141,3-11",10,0,7,0,0,0,0
+498,244,"Lage XVI, Bl. 8¥",Schreiber §,"141,11-16",4,0,1,0,0,0,0
+500,245,"Lage XVII, BI. 1°",Schreiber §,"141,16-20",7,0,3,0,0,0,0
+502,246,"Lage XVII, Bl. 1%",Schreiber §,"141,20-26",1,0,0,0,0,0,0
+504,247,"Lage XVII, Bl. 2°",Schreiber,,6,0,3,0,0,0,0
+506,248,"Lage XVII, Bl. 2V",Schreiber ¢,"142,1 - 143,3",7,0,4,0,0,0,0
+508,249,"Lage XVII, Bl. 3°",Schreiber ¢,"143,4-8",2,0,0,0,0,0,0
+510,250,"Lage XVII, Bl. 3¥",Schreiber §,,6,0,4,0,0,0,0
+512,251,"Lage XVII, Bl. 4°",Schreiber §,"145,4-9",8,0,3,0,0,0,0
+514,252,"Lage XVII, BI. 4¥",Schreiber §,,4,0,2,0,0,0,0
+516,253,"Lage XVII, BI. 5*",Schreiber ¢,,6,0,5,0,0,0,0
+518,254,"Lage XVII, BI. 5V",Schreiber §,"145,16-19",7,0,4,0,0,0,0
+520,255,"Lage XVII, BI. 6°",Schreiber,"145,19 - 146,2",5,0,3,0,0,0,0
+522,256,"Lage XVII, Bl. 6v",Schreiber &,"146,3 - 147,1",3,0,1,0,0,0,0
+524,257,"Lage XVII, Bl. 7©",Schreiber §,"147,1-4",5,0,2,0,0,0,0
+526,258,"Lage XVII, BI. 7”",Schreiber §,"147,4-8",3,0,0,0,0,0,0
+528,259,"Lage XVII, BI. 8°",Schreiber ¢,,9,0,7,0,0,0,0
+530,260,"Lage XVIL, BI. 8Y",Schreiber §,,4,0,0,0,0,0,0
+532,261,"Lage XVIII, BL 1°",Schreiber ¢,"148,-6 - 149,3",11,0,4,0,0,0,0
+534,262,"Lage XVIII, BI. 1¥",Schreiber ¢,,3,0,1,0,0,0,0
+536,263,"Lage XVIII, Bl. 2°",Schreiber §,,11,0,9,0,0,0,0
+538,264,"Lage XVII, Bl. 2”",Schreiber §,"150,3 - 151,6",5,0,4,0,0,0,0
+540,265,"Lage XVIII, BI. 3°",Schreiber §,"151,6-11",6,0,4,0,0,0,0
+542,266,"Lage XVIU, BI. 3¥",Schreiber,,1,0,1,0,0,0,0
+544,267,"Lage X VMI, Bl. 4°",Schreiber §,"152,3-6",6,0,3,0,0,0,0
+546,268,"Lage XVIII, BL. 4¥",Schreiber,,2,0,2,0,0,0,0
+548,269,"Lage XVIII, Bl. 5°",Schreiber ¢,"153,4; 154,1 - 155,2*",5,0,3,0,0,0,0
+550,270,"Lage XVII, BI. 5¥",Schreiber §,"155,3 - 156,1",5,0,1,0,0,0,0
+552,271,"Lage XVII, BI. 6°",Schreiber §,"156,2-7",4,0,2,0,0,0,0
+554,272,"Lage XVII, Bl. 6¥",Schreiber,"156,7 - 158,1",2,0,2,0,0,0,0
+556,273,"Lage XVIII, Bl]. 7°",Schreiber §,"158,2-7",4,0,0,0,0,0,0
+558,274,"Lage XVIII, BI. 7¥",Schreiber §,"159,1-6",3,0,2,0,0,0,0
+560,275,"Lage XVIII, Bl. 8°",Schreiber,"159,6 - 160,3",8,0,2,0,0,0,0
+562,276,"Lage XVII, Bl. 8V",Schreiber ¢,"160,3 - 161,2",3,0,2,0,0,0,0
+564,277,"Lage XIX, Bl. 1°",Schreiber §,"161,2 - 162,1",3,0,3,0,0,0,0
+566,278,"Lage XIX, Bl. 1",Schreiber §,"162,1 - 163,4",6,0,2,0,0,0,0
+568,279,"Lage XIX, BI. 2°",Schreiber §,,6,0,6,0,0,0,0
+570,280,"Lage XIX, BI. 2¥",Schreiber ¢,,5,0,3,0,0,0,0
+572,281,"Lage XIX, BI. 3°",Schreiber ¢,"165,4 - 166,1",1,0,1,0,0,0,0
+574,282,"Lage XIX, Bl. 3¥",Schreiber,"166,1 - 167,2",3,0,0,0,0,0,0
+576,283,"Lage XIX, BI. 4°",Schreiber §,"167,2-9",4,0,2,0,0,0,0
+578,284,"Lage XIX, BI. 4¥",Schreiber F,,5,0,1,0,0,0,0
+580,285,"Lage XIX, Bl. 5*",Schreiber §,"169,2 - 170,6",5,0,3,0,0,0,0
+582,286,"Lage XIX, Bl. 5¥",Schreiber ¢,"170,6 - 172,3",4,0,2,0,0,0,0
+584,287,"Lage XIX, Bl. 6",Schreiber §,"172,3 - 174,2",4,0,2,0,0,0,0
+586,288,"Lage XIX, BI. 6%",Schreiber §,"174,2-6",5,0,2,0,0,0,0
+588,289,"Lage XIX, BI]. 7°",Schreiber ¢,"175,1 - 176,3",3,0,1,0,0,0,0
+590,290,"Lage XIX, Bl. 7",Schreiber,,6,1,4,0,0,0,0
+592,291,"Lage XIX, Bl. 8°",Schreiber §,"177,4 - 178,5",4,0,2,0,0,0,0
+594,292,"Lage XIX, Bl. 8¥",Schreiber ¢,,4,0,2,0,0,0,0
+596,293,"Lage XX, BI. 1°",Schreiber §,"179,2 - 180,3",2,0,0,0,0,0,0
+598,294,"Lage XX, BI. 14",Schreiber ¢,"180,,3 - 181,4",8,0,4,0,0,0,0
+600,295,"Lage XX, Bl. 2°",Schreiber §,"181,4 - 182,7",4,0,3,0,0,0,0
+602,296,"Lage XX, Bl. 2¥",Schreiber §,,1,0,0,0,0,0,0
+604,297,"Lage XX, Bl. 3°",Schreiber §,"184,1 - 185,2",5,0,2,0,0,0,0
+606,298,"Lage XX, BI. 3¥",Schreiber §,,1,0,0,0,0,0,0
+608,299,"Lage XX, Bl. 4°",Schreiber §,,3,0,1,0,0,0,0
+610,300,"Lage XX, BI. 4V",Schreiber §,"1186,4 - 187,5",3,0,1,0,0,0,0
+612,301,"Lage XX, BI. 5S‘",Schreiber §,,3,0,1,0,0,0,0
+614,302,"Lage XX, BI. SY",Schreiber ¢,"188,6 - 189,4",2,0,0,0,0,0,0
+616,303,"Lage XX, Bl. 6°",Schreiber €,"189,4 - 192,1",4,0,1,0,0,0,0
+618,304,"Lage XX, BI. 6%",Schreiber §,,3,0,1,0,0,0,0
+620,305,"Lage XX, BI. 7°",Schreiber §,"193,5 - 194,3",5,0,3,0,0,0,0
+622,306,"Lage XX, BL. 7°",Schreiber §,"194,3 - 196,1",3,0,3,0,0,0,0
+624,307,"Lage XX, Bl. 8°",Schreiber §,"196,1-7",3,0,2,0,0,0,0
+626,308,"Lage XX, BI. 8",Schreiber §,"196,7 - 197,6",5,0,3,0,0,0,0
+628,309,"Lage XXI, Bl. 1*",Schreiber ¢,"197,7 - 198,3",4,0,1,0,0,0,0
+630,310,"Lage XXI, BL. 1¥",Schreiber §,"198,3 - 199,4",6,0,2,0,0,0,0
+632,311,"Lage XXI, BI. 2°",Schreiber §,"199,4-11",3,0,3,0,0,0,0
+634,312,"Lage XXI, BL. 2",Schreiber ¢,"199,11 - 200,4",3,0,1,0,0,0,0
+636,313,"Lage XXI, BL. 3¢",Schreiber ¢,,1,0,0,0,0,0,0
+638,314,"Lage XXI, BI. 3¥",Schreiber §,"202,3 - 204,2",0,0,0,0,0,0,0
+640,315,"Lage XXI, BI. 4°",Schreiber ¢,"204,2 - 205,4",7,0,3,0,0,0,0
+642,316,"Lage XXI, BI. 4¥",Schreiber ¢,"205,4 - 207,1",5,0,1,0,0,0,0
+644,317,"Lage XXI, BI. St",Schreiber ¢,"207,1 - 208, 4",5,0,5,0,0,0,0
+646,318,"Lage XXI, BI. 5¥",Schreiber §,"208,4 - 209,4",5,0,4,0,0,0,0
+648,319,"Lage XXI, BI. 6°",Schreiber €,"210,1 - 211,1",4,0,0,0,0,0,0
+650,320,"Lage XXI, Bl. 6%",Schreiber §,"211,1-4",5,0,4,0,0,0,0
+652,321,"Lage XXI, BL. 1°",Schreiber 8” beginnt mit Z. 1 der Seite,"212,1-7",1,0,0,0,0,0,0
+654,322,"Lage XXII, BI. 1",Schreiber 8’,"212,7 - 215,3",6,2,1,0,0,0,0
+656,323,"Lage XXII, Bl. 2°",,"215,3 - 217,1",8,2,4,0,0,0,0
+658,324,"Lage XXJ, Bl. 2",Schreiber 8’,"217,1 - 218,4",3,2,2,0,0,0,0
+660,325,"Lage XXII, Bl. 3°",Schreiber 8’,"218,4 - 2202",5,0,0,0,0,0,0
+662,326,"Lage XXII, Bl. 3¥",Schreiber &’,,1,0,1,0,0,0,0
+664,327,"Lage XXII, Bl. 4°",Schreiber 8°,,4,1,2,0,0,0,0
+666,328,"Lage XXII, Bl. 4¥",Schreiber 8’,"222,1 - 223,3",6,0,0,0,0,0,0
+668,329,"Lage XXII, BI. 5°",Schreiber &’,,3,0,0,0,0,0,0
+670,330,"Lage XXII, BI. 5",Schreiber 8”,"224,2 - 225,3",2,0,0,0,0,0,0
+672,331,"Lage XXII, Bl. 6°",Schreiber 8’,"225,3 - 228,1",2,0,1,0,0,0,0
+674,332,"Lage XXII, Bl. 6¥",Schreiber 8’,"228,1 - 229,3",3,0,0,0,0,0,0
+676,333,"Lage XXII, Bl. 7°",Schreiber 8’,"229,3 - 231,2",1,0,1,0,0,0,0
+678,334,"Lage XXII, Bl. 7",Schreiber 8’,"231,2 - 232,6",7,1,2,0,0,0,0
+680,335,"Lage XXII, Bl. 8°",Schreiber &’,"232,6 - 233,6",3,0,2,0,0,0,0
+682,336,"Lagev XXII, BI. 8¥",Schreiber 8’,,4,1,1,0,0,0,0
+684,337,"Lage XXII, Bl. 1°",Schreiber 8’,"235,3 - 237,2",7,0,1,0,0,0,0
+686,338,"Lage XII, BI. 1",Schreiber 8’,"237,2 - 238,2",4,1,1,0,0,0,0
+688,339,"Lage XXIII, Bl. 2°",Schreiber 8’,"238,2 - 239,3",3,0,2,0,0,0,0
+690,340,"Lage XXIH, Bl. 2¥",Schreiber 8’,"239,3 - 241,2",10,3,3,0,0,0,0
+692,341,"Lage XXIII, BI. 3°",Schreiber 8’,,3,1,3,0,0,0,0
+694,342,"Lage XXII, Bl. 3V",Schreiber 8’,"244,2-4",2,0,0,0,0,0,0
