@@ -12,8 +12,6 @@ app_tatian_corpus.R	Shiny application for searching the Latin and Old High Germa
 app_tatian_python.py	Streamlit application for interactive queries on the corpus.
 Applications and related work
 Online query application: javiermunoz.shinyapps.io/Tatian_Corpus (code: doi:10.5281/zenodo.23662798); described in Muñoz-Acebes, F. J. (2026): "From Corpus to Interface" (in press).
-Study of scribes and translators: "Contraste cuantitativo de la hipótesis de las dos capas en el Tatian antiguo alto alemán: copistas, traductores y detección de puntos de cambio" (in preparation). The notebook tatian_manos.ipynb reproduces all its analyses, tables and figures: open it in Colab with the badge above and choose Runtime → Run all.
-How to cite
 
 Muñoz-Acebes, Francisco Javier / González-Miguel, Ángeles (2026): Tatian: Parallel Corpus (Latin–Old High German), version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.23598761
 
@@ -35,7 +33,7 @@ app_tatian_corpus.R	Aplicación Shiny para buscar en el texto latino y en el ale
 app_tatian_python.py	Aplicación Streamlit para consultar el corpus de forma interactiva.
 Aplicaciones y trabajos relacionados
 Aplicación de consulta en línea: javiermunoz.shinyapps.io/Tatian_Corpus (código: doi:10.5281/zenodo.23662798); descrita en Muñoz-Acebes, F. J. (2026): "From Corpus to Interface" (en prensa).
-Estudio de copistas y traductores: «Contraste cuantitativo de la hipótesis de las dos capas en el Tatian antiguo alto alemán: copistas, traductores y detección de puntos de cambio» (en preparación). El cuaderno tatian_manos.ipynb reproduce todos sus análisis, tablas y figuras: ábrelo en Colab con el botón de arriba y elige Entorno de ejecución → Ejecutar todo.
+
 Cómo citar
 
 Muñoz-Acebes, Francisco Javier / González-Miguel, Ángeles (2026): Tatian: Parallel Corpus (Latin–Old High German), versión 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.23598761
