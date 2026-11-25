@@ -11,6 +11,8 @@ expected_columns <- c("Chapter", "Latin Text", "Old High German Text",
 ui <- fluidPage(
   titlePanel("Old High German Tatian Parallel Corpus"),
   p("Sievers (1892): base text; Masser (1994): scribal attribution and codex pagination."),
+  tabsetPanel(
+    tabPanel("Search",
   sidebarLayout(
     sidebarPanel(
       textInput("search_term", "Search text (optional):", ""),
@@ -34,6 +36,45 @@ ui <- fluidPage(
       DTOutput("results"),
       helpText("Mixed-hand sections are returned as complete aligned units; individual words are not attributed to a specific hand. Scribal attribution identifies copying hands, not necessarily translators or correctors."),
       helpText("The Latin column follows Sievers’ edition, not a direct transcription of the codex. Later corrections are not separately annotated.")
+    )
+  )
+    ),
+    tabPanel("About",
+      tags$div(style = "max-width: 950px; margin: 24px auto;",
+        h2("About the Tatian Corpus"),
+        p(strong("Corpus version 1.1.0")),
+        p("An openly accessible Latin–Old High German parallel corpus based on Eduard Sievers’ edition (1892), enriched with manuscript metadata from Achim Masser’s edition (1994)."),
+        h3("Corpus Structure"),
+        p("The dataset contains 1,648 aligned data rows (1,601 from Codex Sangallensis 56 and 47 from the Paris fragments). It is distributed as a semicolon-delimited UTF-8 CSV with seven columns:"),
+        tags$dl(
+          tags$dt("Chapter"), tags$dd("Sievers’ chapter and section reference; unique identifier for each aligned unit in this release."),
+          tags$dt("Latin Text"), tags$dd("Latin passage as presented in Sievers’ edition."),
+          tags$dt("Old High German Text"), tags$dd("Corresponding Old High German passage as presented in Sievers’ edition."),
+          tags$dt("Biblical References"), tags$dd("Corresponding Gospel passages where supplied; 96 rows have no reference (49 St. Gallen, 47 Paris)."),
+          tags$dt("Witness"), tags$dd("Manuscript witness: Cod. Sang. 56 or Paris, BnF, lat. 7641."),
+          tags$dt("Scribe"), tags$dd("Copying hand (α–ζ), following Masser (1994, p. 31). Five sections carry two sigla because a change of hand occurs within the section."),
+          tags$dt("Codex Pages"), tags$dd("Page or page range in Codex Sangallensis 56, based on the headers of Masser’s apparatus.")
+        ),
+        p("Scribe and Codex Pages are intentionally blank for the Paris fragments."),
+        h3("Editorial Basis and Limitations"),
+        p("The Latin column follows Sievers’ edited text rather than a direct transcription of the St. Gallen manuscript. Findings dependent on particular Latin readings should be checked against Masser or the manuscript. Later manuscript corrections, predominantly by ζ, are not separately annotated in this release. Scribal attribution identifies copying hands, not necessarily translators or correctors. Mixed-hand sections are retained as complete units."),
+        h3("Application Features"),
+        p("Search the Latin or Old High German text using literal matching or regular expressions, with optional case sensitivity and match-position settings. Filter by witness, scribe or codex page, with or without a textual query. Mixed-hand sections may be included or excluded when selecting an individual scribe. Results can be downloaded as a UTF-8 semicolon-delimited CSV containing all seven fields."),
+        p("The project also provides a Python/Streamlit application in the repository."),
+        h3("References and Access"),
+        tags$ul(
+          tags$li("Sievers, E. (1892). ", em("Tatian, Lateinisch und altdeutsch mit ausführlichem Glossar."), " Paderborn. Second edition."),
+          tags$li("Masser, A. (Ed.). (1994). ", em("Die lateinisch-althochdeutsche Tatianbilingue Stiftsbibliothek St. Gallen Cod. 56."), " With the collaboration of E. De Felip-Jaud. Göttingen: Vandenhoeck & Ruprecht.")
+        ),
+        p(tags$a(href = "https://github.com/javiermunoz-acebes/Tatian", target = "_blank", rel = "noopener noreferrer", "GitHub repository"), " · ", tags$a(href = "https://creativecommons.org/publicdomain/zero/1.0/", target = "_blank", rel = "noopener noreferrer", "CC0 1.0")),
+        tags$hr(),
+        h3("Author Information"),
+        tags$img(src = "https://raw.githubusercontent.com/javiermunoz-acebes/filologia_digital/main/LOGO_FILDIG.jpg", alt = "Filología Digital research group logo", style = "max-width: 220px; width: 100%; height: auto; margin-bottom: 16px;"),
+        p(strong("Developers: "), "Francisco Javier Muñoz-Acebes and Ángeles González-Miguel"),
+        p(strong("Contact: "), tags$a(href = "mailto:fjavier.munoz@uva.es", "fjavier.munoz@uva.es")),
+        p(strong("Institution: "), "Universidad de Valladolid (Spain)"),
+        p(strong("Research Group (GIR): "), "Filología Digital")
+      )
     )
   )
 )
